@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "MyPortfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "A clean, beautiful and responsive portfolio template!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/ennui001/MyPortfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Tashi Lamo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/ennui001/MyPortfolio/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/ennui001/MyPortfolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
