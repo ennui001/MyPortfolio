@@ -21,9 +21,9 @@ To view the demo: **[click here](https://the-MyPortfolio.netlify.app/)**
 - Increases your visibility and online presence
 - Shows you’re more than just a resume
 
-## Deployment 📦
+##deployment
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa429bd5-c86e-472b-8845-d91b94510ee0/deploy-status)](https://app.netlify.com/sites/the-myportfolio/deploys)
 
 ## Technologies used 🛠️
 
